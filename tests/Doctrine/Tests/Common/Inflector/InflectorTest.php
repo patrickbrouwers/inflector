@@ -98,6 +98,7 @@ class InflectorTest extends TestCase
             array('matrix', 'matrices'),
             array('matrix_row', 'matrix_rows'),
             array('medium', 'media'),
+            array('media', 'media'),
             array('memorandum', 'memoranda'),
             array('menu', 'menus'),
             array('Menu', 'Menus'),
